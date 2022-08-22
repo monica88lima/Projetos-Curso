@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(133, 150, 103);
+    font: normal 15pt Arial;
+}
+
+header {
+    font: normal 20pt Arial;
+    color: rgb(183, 238, 220);
+    text-align: center;
+
+}
+
+label {
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+    font: normal 15pt Arial;
+    text-align: center;
+
+
+}
+
+section {
+    text-align: center;
+    background-color: rgb(225, 248, 171);
+    border-radius: 10px;
+    padding: 40px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+    text-align: center;
+}
+
+div {
+    padding: 8px;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    border-radius: 100% !important;
+
+}
+
+footer {
+    font: normal 8pt Arial;
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+
+}
+.buton {
+    background-color: rgb(1, 22, 22);
+    border: none;
+    color: rgb(243, 236, 241);
+    padding: 8px 8px;
+    text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 12px;
+   border-radius: 5px;}
