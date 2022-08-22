@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Cronômetro</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body onload="agora()">
+    <header>
+        <h1>CRONÔMETRO</h1>
+    </header>
+    <section>
+
+        <div class="crono">
+            <h2 id="contador">00:00:00</h2>
+
+        </div>
+
+
+        <div>
+            <input class="button azul" type="button" value="Pause" onclick="parar()">
+            <input class="button verde" type="button" value="Iniciar" onclick="play()">
+            <input class="button red" type="button" value="Reiniciar" onclick="zerar()">
+        </div>
+
+        <div class= 'hora'id="horarioAtual" >
+        </div>
+
+
+        <footer>
+            <p>Projeto - <strong>Monica Lima</strong></p>
+        </footer>
+        <script src="script.js"></script>
+
+</body>
+
+</html>
