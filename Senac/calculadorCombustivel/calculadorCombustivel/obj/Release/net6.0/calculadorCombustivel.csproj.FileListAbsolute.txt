@@ -1,0 +1,15 @@
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\calculadorCombustivel.exe
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\calculadorCombustivel.deps.json
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\calculadorCombustivel.runtimeconfig.json
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\calculadorCombustivel.dll
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\calculadorCombustivel.pdb
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.csproj.AssemblyReference.cache
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.AssemblyInfoInputs.cache
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.AssemblyInfo.cs
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.dll
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\refint\calculadorCombustivel.dll
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.pdb
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\calculadorCombustivel.genruntimeconfig.cache
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\obj\Release\net6.0\ref\calculadorCombustivel.dll

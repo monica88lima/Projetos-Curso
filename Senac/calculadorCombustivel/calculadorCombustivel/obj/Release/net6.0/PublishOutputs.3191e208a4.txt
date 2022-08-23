@@ -1,0 +1,5 @@
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\publish\calculadorCombustivel.exe
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\publish\calculadorCombustivel.dll
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\publish\calculadorCombustivel.deps.json
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\publish\calculadorCombustivel.runtimeconfig.json
+C:\Users\Familia\Documents\Projetos-Curso\Senac\calculadorCombustivel\calculadorCombustivel\bin\Release\net6.0\publish\calculadorCombustivel.pdb
