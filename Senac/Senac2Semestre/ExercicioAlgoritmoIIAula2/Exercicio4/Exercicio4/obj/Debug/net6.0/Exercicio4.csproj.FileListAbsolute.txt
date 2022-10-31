@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioAlgoritmoIIAula2\Exercicio4\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll

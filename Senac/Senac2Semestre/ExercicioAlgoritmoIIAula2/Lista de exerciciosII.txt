@@ -1,0 +1,69 @@
+1)Implemente um programa  que informe a situação de um 
+orçamento familiar baseado no total de ganhos e gastos. Se o total 
+de ganhos for maior ou igual ao total de gastos, deve ser exibida a 
+mensagem: "Você está dentro do orçamento!", senão "Você 
+está fora do orçamento! Não gaste mais!"
+
+2)Implemente um programa que escreva o mês da semana por 
+extenso a partir do número do mês, sabendo que o mês de Janeiro é o 
+mês número 01. Se o número do mês não estiver entre 1 e 12, deve ser 
+enviada a mensagem: “Mês inválido".
+
+3)Implemente um programa que a partir da temperatura, avalie a situação da pessoa conforme a
+tabela ao lado. Ao final, apresente a classificação.
+Média                                Situação
+Maior igual a 41                     Hipertermia
+Maior igual a 39,6 e menor que 41    Febre Alta
+Maior igual a 37,6 e menor que 39,6  Febre
+Maior igual a 36 e menor que 37,6    Normal
+Abaixo de 36                         Hipotermia
+
+4)Implemente um programa que informe qual a situação de 
+um candidato de vestibular a partir da nota que ele tirou, da nota de 
+corte e da nota mínima para aprovação. Considere as regras abaixo:
+
+Média                                                                         Situação
+Se a nota for menor que a nota de corte                                Candidato não passou
+Se a nota for maior ou igual a nota de aprovação                       Candidato aprovado
+Se a nota estiver entre a nota de corte e a nota mínima de 
+aprovação
+                                                                       Candidato está na lista espera 
+              
+
+                                                               
+5)Implemente um programa que informe a situação de um orçamento 
+familiar baseado no total de ganhos e gastos. A situação deve ser calculada 
+a partir da tabela abaixo:
+
+Média                                                                       Situação
+Gastos maiores que os Ganhos                                  Orçamento comprometido! Hora de rever seus gastos!
+Gastos entre 81% e 100% dos Ganhos                            Cuidado, seu orçamento pode ficar comprometido!
+Gastos entre 51% e 80% dos Ganhos                             Atenção, melhor conter os gastos!
+Gastos entre 21% e 50% dos Ganhos                             Muito bem, seus gastos não ultrapassam metade dos ganhos!
+Gastos entre 0% e 20% dos Ganhos                              Parabéns, está gerenciando bem seu orçamento!
+
+6)Implemente um programa  que calcule o fatorial de um número informado pelo usuário.
+
+7)Implemente um programa que calcule a soma dos números naturais pares, a partir de um número de início e fim, informados pelo
+usuário.
+
+8)Implemente um programa que separe os caracteres de um texto
+com um hífen (-). O usuário deve informar uma mensagem e o programa
+deve apresentar a mensagem separando seus caracteres por hífen.
+Entrada Saída
+Bora codar B-o-r-a- -c-o-d-a-r
+
+9)Implemente um programa em Java que inverta um texto
+informado pelo usuário 
+Bora codar radoc aroB
+
+10)Implemente um programa em Java que verifique se um texto informado
+pelo usuário é um palíndromo.
+
+Entrada                Saída
+Bora codar            Não é um palíndromo.
+arara                  É um palíndromo.
+
+khlkhl
+
+
