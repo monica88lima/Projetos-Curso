@@ -1,0 +1,15 @@
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\bin\Debug\net6.0\exercicioAula1LetsCode.exe
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\bin\Debug\net6.0\exercicioAula1LetsCode.deps.json
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\bin\Debug\net6.0\exercicioAula1LetsCode.runtimeconfig.json
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\bin\Debug\net6.0\exercicioAula1LetsCode.dll
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\bin\Debug\net6.0\exercicioAula1LetsCode.pdb
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.csproj.AssemblyReference.cache
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.AssemblyInfoInputs.cache
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.AssemblyInfo.cs
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.csproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.dll
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\refint\exercicioAula1LetsCode.dll
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.pdb
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\exercicioAula1LetsCode.genruntimeconfig.cache
+C:\Users\rishi\OneDrive\Documentos\ProjetosMonica\AdaSinqia\exercicioAula1LetsCode\exercicioAula1LetsCode\obj\Debug\net6.0\ref\exercicioAula1LetsCode.dll

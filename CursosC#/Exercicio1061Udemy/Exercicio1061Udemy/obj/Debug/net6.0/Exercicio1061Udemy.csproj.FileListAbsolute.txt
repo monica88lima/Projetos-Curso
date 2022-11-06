@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\bin\Debug\net6.0\Exercicio1061Udemy.exe
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\bin\Debug\net6.0\Exercicio1061Udemy.deps.json
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\bin\Debug\net6.0\Exercicio1061Udemy.runtimeconfig.json
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\bin\Debug\net6.0\Exercicio1061Udemy.dll
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\bin\Debug\net6.0\Exercicio1061Udemy.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.dll
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\refint\Exercicio1061Udemy.dll
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\Exercicio1061Udemy.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Projetos-Curso\CursosC#\Exercicio1061Udemy\Exercicio1061Udemy\obj\Debug\net6.0\ref\Exercicio1061Udemy.dll

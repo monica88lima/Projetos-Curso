@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\bin\Debug\net6.0\PtiAlgoritmoII.exe
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\bin\Debug\net6.0\PtiAlgoritmoII.deps.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\bin\Debug\net6.0\PtiAlgoritmoII.runtimeconfig.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\bin\Debug\net6.0\PtiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\bin\Debug\net6.0\PtiAlgoritmoII.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\refint\PtiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\PtiAlgoritmoII.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ExercicioFuncao\PtiAlgoritmoII\obj\Debug\net6.0\ref\PtiAlgoritmoII.dll

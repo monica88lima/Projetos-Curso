@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\bin\Debug\net6.0\ptiAlgoritmoII.exe
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\bin\Debug\net6.0\ptiAlgoritmoII.deps.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\bin\Debug\net6.0\ptiAlgoritmoII.runtimeconfig.json
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\bin\Debug\net6.0\ptiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\bin\Debug\net6.0\ptiAlgoritmoII.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\refint\ptiAlgoritmoII.dll
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.pdb
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ptiAlgoritmoII.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Projetos-Curso\Senac\Senac2Semestre\ptiAlgoritmoII\ptiAlgoritmoII\obj\Debug\net6.0\ref\ptiAlgoritmoII.dll
